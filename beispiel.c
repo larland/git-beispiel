@@ -1,1 +1,2 @@
-C ist cool
+"C ist cool
+"Supercool"
